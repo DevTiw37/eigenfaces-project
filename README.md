@@ -1,3 +1,5 @@
+**Live demo:** https://eigenfaces-project-eigenfaces-slider.streamlit.app/
+
 # Eigenfaces & Spectral Geometry
 From-scratch dimensionality reduction and anomaly detection on faces, using pure
 NumPy linear algebra (no `sklearn.decomposition`, no `cv2`).
